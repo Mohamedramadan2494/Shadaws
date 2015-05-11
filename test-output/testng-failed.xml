@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.FCI.SWE.Controller.UserControllerTest">
+        <methods>
+          <include name="post"/>
+          <include name="share"/>
+          <include name="notifications"/>
+          <include name="afterClass"/>
+          <include name="sendmessageStringString"/>
+          <include name="hashtageTrend"/>
+          <include name="responseString"/>
+          <include name="beforeClass"/>
+          <include name="Like"/>
+          <include name="mypost"/>
+          <include name="rejectString"/>
+          <include name="requestString"/>
+          <include name="postFriendStringStringString"/>
+        </methods>
+      </class> <!-- com.FCI.SWE.Controller.UserControllerTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

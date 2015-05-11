@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+<suite name="Suite111">
+ <test name="Test1111"> 
+ <classes> 
+ <class name="com.FCI.SWE.ServicesModels.UserEntityTest" /> 
+ </classes> 
+ </test> 
+ </suite>
